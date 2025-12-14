@@ -94,7 +94,7 @@ export function Hero() {
           >
             <HoverBorderGradient
               as="a"
-              href="https://drive.google.com/file/d/1LrWfkjRCsiExvLKIr_MoP8zCpjl9Gia5/view?usp=sharing"
+              href="https://drive.google.com/file/d/1M_Le8RYajAi1nL3Z1uCxT071VL74Mcam/view?usp=sharing"
               containerClassName="rounded-lg"
               className="inline-flex items-center px-6 py-3 text-base font-medium text-white rounded-lg"
             >
